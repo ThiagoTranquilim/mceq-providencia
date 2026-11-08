@@ -1,0 +1,17 @@
+gerador,detector,idioma_treino,idioma_teste,macro_f1
+alpaca-lora-30b,bert-base-multilingual-cased,en,pt,0.8055
+alpaca-lora-30b,xlm-roberta-large,en,pt,0.7130
+gpt-3.5-turbo,bert-base-multilingual-cased,en,pt,0.9124
+gpt-3.5-turbo,xlm-roberta-large,en,pt,0.9281
+gpt-4,bert-base-multilingual-cased,en,pt,0.8704
+gpt-4,xlm-roberta-large,en,pt,0.9267
+llama-65b,bert-base-multilingual-cased,en,pt,0.6752
+llama-65b,xlm-roberta-large,en,pt,0.6082
+opt-66b,bert-base-multilingual-cased,en,pt,0.5635
+opt-66b,xlm-roberta-large,en,pt,0.5897
+opt-iml-max-1.3b,bert-base-multilingual-cased,en,pt,0.4721
+opt-iml-max-1.3b,xlm-roberta-large,en,pt,0.6991
+text-davinci-003,bert-base-multilingual-cased,en,pt,0.8408
+text-davinci-003,xlm-roberta-large,en,pt,0.8232
+vicuna-13b,bert-base-multilingual-cased,en,pt,0.8520
+vicuna-13b,xlm-roberta-large,en,pt,0.7163
